@@ -173,7 +173,7 @@ print(me.motto())
 
 <div align="center">
 
-| Degree | Institution | Expected Year | Score / Status |
+| Degree | Institution | Year | Score |
 |--------|-------------|:---:|:---:|
 | B.E. Electronics & Communication Engineering | Erode Sengunthar Engineering College, Erode | May 2026 | 6.4 CGPA |
 | HSC | Kongu National Matric Hr. Sec. School, Erode | 2022 | 75% |
