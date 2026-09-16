@@ -21,7 +21,8 @@ class AbiArjunR:
         self.location    = "Tiruppur, Tamil Nadu, India"
         self.degree      = "B.E. Electronics & Communication Engineering"
         self.college     = "Erode Sengunthar Engineering College"
-        self.graduation  = "May 2026 (8th Semester)"
+        self.graduation  = "2026"
+        self.CGPA        = "6.4"
         self.stack       = ["Python", "C", "HTML"]
         self.tools       = ["VS Code", "Git", "GitHub"]
         self.languages   = ["Tamil", "English", "Malayalam", "Telugu"]
@@ -174,7 +175,7 @@ print(me.motto())
 
 | Degree | Institution | Expected Year | Score / Status |
 |--------|-------------|:---:|:---:|
-| B.E. Electronics & Communication Engineering | Erode Sengunthar Engineering College, Erode | May 2026 | 8th Semester (Ongoing) |
+| B.E. Electronics & Communication Engineering | Erode Sengunthar Engineering College, Erode | May 2026 | 6.4 CGPA |
 | HSC | Kongu National Matric Hr. Sec. School, Erode | 2022 | 75% |
 | SSLC | Kongu National Matric Hr. Sec. School, Erode | 2020 | 64% |
 
